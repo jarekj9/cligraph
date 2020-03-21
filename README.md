@@ -5,7 +5,7 @@ Method produces fixed size graph for any length of input list and any range of v
 
 Example:
 
-
+```
 400 (Max Value)
 |                           *                              
 |                           *                              
@@ -28,3 +28,4 @@ Example:
 |****** * * ******* *** *** ** ** * * ****** * *  *** *****
 0****** * ********* ******* ** ** * ******** * ****** *****
  0_______________________________________________________58 (Length)
+```
